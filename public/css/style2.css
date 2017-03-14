@@ -1,0 +1,176 @@
+body{
+	overflow: :hidden ;
+	background-image: url('/pictures/BG3.jpg');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+li a{
+	font-size: 10pt;
+	margin: 50px;
+	float: left;
+	color: black;
+	 display: block;
+    color: white;
+    padding:30px;
+    text-decoration: none;
+    border-bottom:solid 2px ;
+
+  
+}
+tr td{
+	padding: 10px;
+	box-shadow: 0 2px 4px;
+}
+.comment{
+	width: 500px;
+	height: 700px;
+
+}
+.center{
+	margin: 30px;
+    width: 50%;
+    border: 2px solid #000000;
+    padding: 5px;
+}
+.button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+.button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+.font1{
+	color: white;
+	font-family: segoe ui light;
+	position: absolute;
+	margin-top: -20px;
+	margin-left: 20px;
+}
+.font2{
+	font-size: 15pt;
+	margin-left: 200px;
+	position: absolute;	
+	color: white;
+	font-family: segoe ui light;
+}
+.font3{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 200px;
+	margin-top: 20px;
+
+}
+.font4{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 20px;
+}
+.font5{
+	font-size: 15pt;
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 1px;
+}
+.font6{
+	font-size: 15pt;
+	margin-left: 200px;
+	position: absolute;	
+	color: white;
+	font-family: segoe ui light;
+}
+.font7{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.font8{
+	font-size: 15pt;
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 1px;
+}
+.font9{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 20px;
+
+}
+.f1{
+	font-size: 15pt;
+	margin-left: 200px;
+	position: absolute;	
+	color: white;
+	font-family: segoe ui light;
+}
+.f2{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.f3{
+	font-size: 15pt;
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 1px;
+}
+.f4{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 20px;
+}
+.F5{
+	font-size: 15pt;
+	margin-left: 200px;
+	position: absolute;	
+	color: white;
+	font-family: segoe ui light;
+}
+.f6{
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+.f7{
+	font-size: 15pt;
+	position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 1px;
+}
+.f8{
+		position: absolute;
+	color: white;
+	font-family: segoe ui light;
+	margin-left: 470px;
+	margin-top: 20px;
+}

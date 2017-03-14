@@ -1,0 +1,49 @@
+body{
+	overflow: :hidden ;
+	background-image: url('/pictures/homebG.jpg');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+li a{
+
+	float: left;
+	padding: 30px;
+	color: white;
+	font-family: segoe ui light;
+	
+	
+}
+.pic{
+	margin-top: 100px;
+	margin: 15px;
+
+}
+.pic2{
+	color: white;
+	margin-left: 500px;
+	margin-top: -200px;
+	font-size: 20pt;
+	text-shadow:0 2px 4px black;
+}
+.FONT3{
+	font-family: segoe ui light;
+	color: white;
+	margin-left: 500px;
+	margin-top: -20px;
+	position: absolute;
+}
+.adobo{
+	font-family: arial;
+	color: white;
+	margin-left: 500px;
+	margin-top: -10px;
+	position: absolute;
+}
+.f6{
+	margin-top: 30px;
+	color: white;
+	font-size: 15pt;
+	font-family: segoe ui light;
+	margin-left: 500px;
+
+}

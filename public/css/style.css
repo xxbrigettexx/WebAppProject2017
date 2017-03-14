@@ -1,0 +1,35 @@
+body{
+	background-image: url('/pictures/Untitled-1.jpg');
+	overflow: hidden;
+	background-repeat: no-repeat ;
+	background-attachment: fixed;
+}
+.box{
+	width: 100%;
+	height: 100px;
+	background-color: navy;
+
+}
+li a {
+	font-size: 13pt;
+	margin: 50px;
+	float: left;
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+   	background-attachment: fixed;
+}
+ul li{
+	margin-top: 380px;
+	margin-left: 190px;
+}
+.font{
+	text-align: center;
+	margin-top: 100px;
+	color: white;
+	margin-left: 140px;
+	position: absolute;
+	font-family: segoe ui light;
+	
+}
